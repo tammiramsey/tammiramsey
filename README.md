@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tammiramsey
 - 👀 I’m interested in learning to code, knitting, reading, being a mom, teaching high school CS
-- 🌱 I’m currently learning more about React
+- 🌱 I’m currently learning more about interactive JS websites and digital security
 - 💞️ I’m looking to collaborate on how to use Github in the CS classroom
 - 📫 How to reach me @tammi_ramsey
 
